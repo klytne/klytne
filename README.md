@@ -1,6 +1,6 @@
 Hi 👋
 <hr>
-My name is Kelly. I'm a first year student in Computer Science.
+My name is Kelly. I'm a second year student in Computer Science.
 
 <ul>
   <li>🌍  I'm based in South Africa!</li>
