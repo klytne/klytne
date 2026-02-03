@@ -1,9 +1,11 @@
-Hi 👋
-<hr>
-My name is Kelly. I'm a second year student in Computer Science.
+My name is Kelly.
 
+I'm:
 <ul>
-  <li>🛠️ HTML, CSS, JavaScript </li>
-  <li>🌱 I’m currently learning React and Tailwind CSS</li>
-  <li>👀 I’m interested in reading, crocheting and knitting</li>
+  <li>🛠️ actively building in HTML, CSS, JavaScript and Tailwind CSS</li>
+  <li>🌱 trying to understand React and TypeScript </li>
+  <li>✨ maintaining a project in TypeScript</li>
 </ul>
+
+I'm the founder of <a href="www.cralaxia.me">Cralaxia</a>, a site that helps empower makers to track their craft, understand their worth, and take pride in every project they complete.
+
