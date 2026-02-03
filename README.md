@@ -7,5 +7,5 @@ I'm:
   <li>✨ maintaining a project in TypeScript</li>
 </ul>
 
-I'm the founder of <a href="www.cralaxia.me">Cralaxia</a>, a site that helps empower makers to track their craft, understand their worth, and take pride in every project they complete.
+I'm the founder of [Cralaxia](https://www.cralaxia.me), a site that helps empower makers to track their craft, understand their worth, and take pride in every project they complete.
 
